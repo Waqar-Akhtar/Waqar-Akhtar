@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Engineer | React.js | Next.js | Node.js | Express.js | MongoDB<br><br>I'm a fullstack engineer with over 2 years of experience in developing scalable web applications and APIs. My expertise spans across front-end and back-end technologies, with a focus on React.js and Next.js for building dynamic user interfaces, and Node.js, Express.js, and MongoDB for creating robust server-side solutions. I'm passionate about solving complex problems and continuously improving my skill set through hands-on projects.
+Fullstack Engineer | React.js | Next.js | Node.js | Express.js | MongoDB<br><br>I'm a fullstack engineer with over 4 years of experience in developing scalable web applications and APIs. My expertise spans across front-end and back-end technologies, with a focus on React.js and Next.js for building dynamic user interfaces, and Node.js, Express.js, Nest.js, MySql, Postgres and MongoDB for creating robust server-side solutions. I'm passionate about solving complex problems and continuously improving my skill set through hands-on projects.
 
 
 ## 🌐 Socials:
